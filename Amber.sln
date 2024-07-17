@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grabber", "Grabber\Grabber.csproj", "{7A2354E7-EE3A-406C-848D-E5A8A4DD99D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{103776AB-C263-4119-9A7C-1D0D9ACF5C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HueInterface", "HueInterface\HueInterface.csproj", "{482CEEC3-0BA0-4EF9-9740-A19925BAE4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorHelper", "ColorHelper\ColorHelper.csproj", "{16FAFE46-8E4C-450F-8476-72575F77E5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2354E7-EE3A-406C-848D-E5A8A4DD99D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2354E7-EE3A-406C-848D-E5A8A4DD99D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2354E7-EE3A-406C-848D-E5A8A4DD99D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2354E7-EE3A-406C-848D-E5A8A4DD99D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103776AB-C263-4119-9A7C-1D0D9ACF5C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103776AB-C263-4119-9A7C-1D0D9ACF5C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103776AB-C263-4119-9A7C-1D0D9ACF5C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103776AB-C263-4119-9A7C-1D0D9ACF5C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482CEEC3-0BA0-4EF9-9740-A19925BAE4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482CEEC3-0BA0-4EF9-9740-A19925BAE4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482CEEC3-0BA0-4EF9-9740-A19925BAE4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482CEEC3-0BA0-4EF9-9740-A19925BAE4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FAFE46-8E4C-450F-8476-72575F77E5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FAFE46-8E4C-450F-8476-72575F77E5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FAFE46-8E4C-450F-8476-72575F77E5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FAFE46-8E4C-450F-8476-72575F77E5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A13BDB-5F6F-402F-A254-E36DDB8A7C0C}
+	EndGlobalSection
+EndGlobal
